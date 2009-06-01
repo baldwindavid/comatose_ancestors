@@ -9,7 +9,7 @@ This plugin makes the "ancestors" method available to the @page object in your C
     
 ### Dependencies
 
-[Comatose](git://github.com/darthapo/comatose.git) requires [Acts as Tree](git://github.com/rails/acts_as_tree.git), so those will obviously be required.
+[Comatose](http://github.com/darthapo/comatose.git) requires [Acts as Tree](http://github.com/rails/acts_as_tree.git), so those will obviously be required.
   
 ### Installation
   
